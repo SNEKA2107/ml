@@ -186,3 +186,5 @@ for _ in range(10):
 print("Means:", means)
 print("Variances:", variances)
 print("Weights:", weights)
+
+
