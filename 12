@@ -188,3 +188,5 @@ print("Variances:", variances)
 print("Weights:", weights)
 
 
+
+
